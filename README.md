@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the development team</p>
+  <p>Made with ❤️ by x0VIER</p>
   <p>
     <a href="https://github.com/x0VIER/kestra-workflow-orchestrator">⭐ Star this project</a> •
     <a href="https://github.com/x0VIER/kestra-workflow-orchestrator/issues">🐛 Report Bug</a> •
